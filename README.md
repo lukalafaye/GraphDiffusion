@@ -5,3 +5,5 @@ This is an implementation of the EFFICIENT AND SCALABLE GRAPH GENERATION THROUGH
 https://arxiv.org/pdf/2312.11529
 
 The coarsening methodology was simplified.
+
+There is also some slides explaining the paper approach and results on two experiments (see notebook).
